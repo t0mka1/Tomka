@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Miscellaneous
 *.class
 *.log
@@ -46,3 +47,7 @@ app.*.map.json
 
 # Widget Preview related
 .widget_preview/
+=======
+.idea/
+*.zip
+>>>>>>> 2f3e3d9b3792c4419de769acd77d7aa64efa9245
