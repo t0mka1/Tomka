@@ -1,0 +1,20 @@
+{
+  "home": "Home",
+  "catalog": "Catalog",
+  "favorites": "Favorites",
+  "profile": "Profile",
+  "welcome": "Welcome!",
+  "home_subtitle": "Nice to see you again",
+  "card_title_1": "New Arrivals",
+  "card_desc_1": "Fresh products just in",
+  "card_title_2": "Discounts",
+  "card_desc_2": "Special offers for you",
+  "add_to_favorites": "Add to favorites",
+  "no_favorites": "Your favorites list is empty",
+  "settings": "Settings",
+  "language": "Language",
+  "theme": "Theme",
+  "about_app": "About app",
+  "app_version": "Version 1.0.0",
+  "username": "John Doe"
+}
